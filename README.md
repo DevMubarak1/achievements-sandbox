@@ -5,4 +5,5 @@ A dedicated repository for GitHub achievement milestones, collaboration tests, a
 ### Milestones
 - [x] Initial Repository Setup
 - [x] Pair Extraordinaire Collaboration
-- [ ] Pull Shark Milestone
+- [x] Pull Shark Milestone (2 Merged PRs)
+- [x] YOLO Achievement (Merged without review)
