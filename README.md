@@ -28,5 +28,15 @@ git stash -u
 - `Ctrl + L`: Clear screen
 - `!!`: Rerun previous command
 
+## 🐍 Python & Node Quickstarts
+```python
+# Quick HTTP server for testing
+python -m http.server 8000
+```
+```bash
+# Measure command execution time
+time npm test
+```
+
 ## 🤝 Contributing
 Contributions, additions, and suggestions are welcome! Feel free to open an issue or pull request.
