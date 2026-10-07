@@ -38,5 +38,18 @@ python -m http.server 8000
 time npm test
 ```
 
+## 🐳 Docker & Container Shortcuts
+Useful commands for daily container debugging:
+```bash
+# Prune all stopped containers, unused networks, and dangling images
+docker system prune -f
+
+# Follow logs with timestamps
+docker logs -f --tail 100 --timestamps <container_name>
+
+# Inspect environment variables inside a running container
+docker exec -it <container_name> env
+```
+
 ## 🤝 Contributing
 Contributions, additions, and suggestions are welcome! Feel free to open an issue or pull request.
